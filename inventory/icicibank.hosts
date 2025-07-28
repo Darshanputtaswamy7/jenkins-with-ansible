@@ -1,2 +1,3 @@
 localhost
 172.31.3.127 ansible_user=ec2-user
+172.31.2.104 ansible_user=ec2-user
